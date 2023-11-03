@@ -8,7 +8,7 @@ Sistema para introduzir o conceito de mensageria  utilizando Spring Boot e Kafka
 - [Spring for Kafka](https://docs.spring.io/spring-kafka/reference/html/)
 - [Kafka](https://kafka.apache.org)
 - [Docker Compose](https://docs.docker.com/compose/)
-- java 17
+- [Java 17]
 
 ## Como Executar
 
