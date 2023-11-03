@@ -30,7 +30,7 @@ $ java -jar target/messaging-springboot-0.0.1-SNAPSHOT.jar
 
 - Enviar um hello
 ```
-$ http :8080/kafka/hello/giu
+$ http :8080/kafka/hello/Jardel
 
 HTTP/1.1 200
 Connection: keep-alive
@@ -44,5 +44,5 @@ OK
 
 - Visualizar mensagem recebida no log:
 ```
-Consumer Message: Olá, giu
+Consumer Message: Olá, jardel 
 ```
